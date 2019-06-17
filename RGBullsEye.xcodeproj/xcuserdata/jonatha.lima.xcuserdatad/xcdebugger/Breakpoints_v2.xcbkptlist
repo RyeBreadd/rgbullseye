@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1321CB8F-804F-46C8-A4E2-6939420B7D69"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85808D07-2510-4C1A-85C1-D8AD32A8489A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RGBullsEye/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D000726-E823-4D70-98E4-77EBE9F145F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RGBullsEye/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4D000726-E823-4D70-98E4-77EBE9F145F9 - b0c928e12d4c7c87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI._ModifiedContent&lt;SwiftUI.Rectangle, SwiftUI._EnvironmentKeyWritingModifier&lt;Swift.Optional&lt;SwiftUI.Color&gt;&gt;&gt;, SwiftUI.Text)&gt;&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI._ModifiedContent&lt;SwiftUI.Rectangle, SwiftUI._EnvironmentKeyWritingModifier&lt;Swift.Optional&lt;SwiftUI.Color&gt;&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Text)&gt;&gt;&gt;)&gt;&gt;)&gt;&gt;, SwiftUI._AutoResultView&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;, SwiftUI._ModifiedContent&lt;RGBullsEye.ColorSlider, SwiftUI._PaddingLayout&gt;, SwiftUI._ModifiedContent&lt;RGBullsEye.ColorSlider, SwiftUI._PaddingLayout&gt;, SwiftUI._ModifiedContent&lt;RGBullsEye.ColorSlider, SwiftUI._PaddingLayout&gt;)&gt; in RGBullsEye.ContentView.body.getter : some"
+                  moduleName = "RGBullsEye"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonatha.lima/Developer/Personal/RGBullsEye/RGBullsEye/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "1731">
+               </Location>
+               <Location
+                  uuid = "4D000726-E823-4D70-98E4-77EBE9F145F9 - 310a91cf0fe3d9d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; SwiftUI.Alert in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI._ModifiedContent&lt;SwiftUI.Rectangle, SwiftUI._EnvironmentKeyWritingModifier&lt;Swift.Optional&lt;SwiftUI.Color&gt;&gt;&gt;, SwiftUI.Text)&gt;&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI._ModifiedContent&lt;SwiftUI.Rectangle, SwiftUI._EnvironmentKeyWritingModifier&lt;Swift.Optional&lt;SwiftUI.Color&gt;&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Text)&gt;&gt;&gt;)&gt;&gt;)&gt;&gt;, SwiftUI._AutoResultView&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;, SwiftUI._ModifiedContent&lt;RGBullsEye.ColorSlider, SwiftUI._PaddingLayout&gt;, SwiftUI._ModifiedContent&lt;RGBullsEye.ColorSlider, SwiftUI._PaddingLayout&gt;, SwiftUI._ModifiedContent&lt;RGBullsEye.ColorSlider, SwiftUI._PaddingLayout&gt;)&gt; in RGBullsEye.ContentView.body.getter : some"
+                  moduleName = "RGBullsEye"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonatha.lima/Developer/Personal/RGBullsEye/RGBullsEye/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "379">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

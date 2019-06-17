@@ -13,6 +13,7 @@
 		013CCCFA22B7C87B00B9693C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 013CCCF922B7C87B00B9693C /* Assets.xcassets */; };
 		013CCCFD22B7C87B00B9693C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 013CCCFC22B7C87B00B9693C /* Preview Assets.xcassets */; };
 		013CCD0022B7C87B00B9693C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 013CCCFE22B7C87B00B9693C /* LaunchScreen.storyboard */; };
+		013CCD0822B7DAD500B9693C /* ColorSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013CCD0722B7DAD500B9693C /* ColorSlider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		013CCCFC22B7C87B00B9693C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		013CCCFF22B7C87B00B9693C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		013CCD0122B7C87B00B9693C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		013CCD0722B7DAD500B9693C /* ColorSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSlider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				013CCCFE22B7C87B00B9693C /* LaunchScreen.storyboard */,
 				013CCD0122B7C87B00B9693C /* Info.plist */,
 				013CCCFB22B7C87B00B9693C /* Preview Content */,
+				013CCD0722B7DAD500B9693C /* ColorSlider.swift */,
 			);
 			path = RGBullsEye;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				013CCCF422B7C87A00B9693C /* AppDelegate.swift in Sources */,
 				013CCCF622B7C87A00B9693C /* SceneDelegate.swift in Sources */,
+				013CCD0822B7DAD500B9693C /* ColorSlider.swift in Sources */,
 				013CCCF822B7C87A00B9693C /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
